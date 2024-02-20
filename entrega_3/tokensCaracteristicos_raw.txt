@@ -1,0 +1,191 @@
+Top values for Class entp:
+· ideas: 0.348
+· serious: 0.34
+· idea: 0.302
+· visionary: 0.301
+· one: 0.276
+· worried: 0.268
+· right: 0.251
+· success: 0.243
+· able: 0.241
+· excited: 0.215
+
+Top values for Class entj:
+· strategic: 0.278
+· goals: 0.231
+· achieve: 0.222
+· stronger: 0.219
+· results: 0.214
+· father: 0.202
+· make: 0.201
+· leaders: 0.198
+· challenge: 0.173
+· fine: 0.166
+
+Top values for Class estj:
+· way: 0.308
+· work: 0.303
+· respect: 0.248
+· authority: 0.248
+· organization: 0.227
+· hard: 0.222
+· well: 0.21
+· charge: 0.197
+· clear: 0.191
+· order: 0.19
+
+Top values for Class isfj:
+· hardworking: 0.268
+· relationships: 0.262
+· loyalty: 0.224
+· needs: 0.223
+· giving: 0.211
+· established: 0.198
+· gifts: 0.182
+· done: 0.178
+· devoted: 0.172
+· scenes: 0.169
+
+Top values for Class infp:
+· king: 0.663
+· man: 0.483
+· sure: 0.411
+· person: 0.357
+· scholar: 0.326
+· happy: 0.275
+· heir: 0.275
+· feel: 0.266
+· worried: 0.215
+· busy: 0.206
+
+Top values for Class istj:
+· man: 0.464
+· kandra: 0.325
+· dead: 0.288
+· clever: 0.263
+· careful: 0.243
+· happy: 0.241
+· work: 0.234
+· able: 0.219
+· right: 0.207
+· integrity: 0.194
+
+Top values for Class intj:
+· thinking: 0.237
+· applying: 0.206
+· logical: 0.204
+· challenges: 0.193
+· ideas: 0.193
+· systems: 0.182
+· less: 0.178
+· nature: 0.175
+· emotional: 0.175
+· independent: 0.171
+
+Top values for Class intp:
+· ideas: 0.303
+· thought: 0.279
+· get: 0.272
+· things: 0.241
+· reason: 0.231
+· understanding: 0.216
+· come: 0.173
+· logical: 0.172
+· universe: 0.161
+· research: 0.159
+
+Top values for Class estp:
+· physical: 0.233
+· energy: 0.229
+· use: 0.213
+· go: 0.2
+· sense: 0.189
+· perceptive: 0.188
+· process: 0.184
+· emotional: 0.182
+· get: 0.182
+· observation: 0.17
+
+Top values for Class enfj:
+· result: 0.182
+· needs: 0.174
+· come: 0.17
+· persuading: 0.168
+· making: 0.168
+· thrive: 0.165
+· even: 0.164
+· relationships: 0.158
+· whats: 0.157
+· rarely: 0.156
+
+Top values for Class istp:
+· certain: 0.603
+· able: 0.518
+· tired: 0.451
+· sure: 0.388
+· surprised: 0.376
+· mechanical: 0.359
+· alive: 0.351
+· wrong: 0.341
+· good: 0.312
+· sorry: 0.307
+
+Top values for Class esfp:
+· time: 0.301
+· moment: 0.232
+· practical: 0.227
+· things: 0.19
+· new: 0.188
+· love: 0.182
+· never: 0.176
+· attention: 0.162
+· every: 0.161
+· pleasure: 0.16
+
+Top values for Class isfp:
+· moment: 0.284
+· present: 0.272
+· beauty: 0.269
+· artistic: 0.268
+· quiet: 0.224
+· able: 0.22
+· spontaneous: 0.21
+· sorry: 0.207
+· one: 0.198
+· experiences: 0.193
+
+Top values for Class enfp:
+· imagination: 0.253
+· life: 0.252
+· ideas: 0.221
+· creative: 0.201
+· imaginative: 0.191
+· create: 0.19
+· enthusiasm: 0.181
+· communicators: 0.157
+· conversations: 0.152
+· even: 0.151
+
+Top values for Class infj:
+· certain: 0.534
+· right: 0.351
+· purpose: 0.345
+· life: 0.299
+· better: 0.292
+· steward: 0.274
+· one: 0.262
+· rebel: 0.256
+· values: 0.249
+· afraid: 0.232
+
+Top values for Class esfj:
+· social: 0.482
+· good: 0.305
+· strong: 0.286
+· order: 0.251
+· practical: 0.233
+· take: 0.21
+· effort: 0.196
+· behavior: 0.189
+· help: 0.183
+· black: 0.178
