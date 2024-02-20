@@ -1,0 +1,8 @@
+conda create --name "Nombre" python=3.11.5
+conda activate "Nombre"
+
+Esto si detecta el pip directamente:
+	pip install -r requirements.txt
+	
+Si no:
+	python -m pip install -r requirements.txt
